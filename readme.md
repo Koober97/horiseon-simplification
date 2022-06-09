@@ -11,5 +11,6 @@
 * Many comments were placed throughout both HTML and CSS code to allow ease of navigation
 * The CSS code was restructured to match the outline of the HTML code
 
+## Link: 
 
 ### Edited by: Brian Koo
